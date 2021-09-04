@@ -1,2 +1,2 @@
 # git-remote
-Repo untuk menvoba git remote
+Repo untuk mencoba git remote
